@@ -17,7 +17,7 @@ I could not have created this without the help of
   * [the Future was 8-bit][] for their [SD2IEC][] sd card drive for the commodore...
   * [eBay][], for the only place I could find a shrink-wrapped Claris Hypercard 2.1, an excellent condition palm pilot m500 + 802.11b MODULE?!?
   * [mini vMac][]/[the Gryphel Project][], a kickass linux/osx mac plus emulator
-  * 
+  * [Bill Atkinson][] for making Hypercard! And Claris for extending it!
   * [PHEM][], the palm hardware emulator for Android 
   * [Eric Poncet][], for his amazing Palm Tutorial
   * [Docker][], for making it easy to create a crazy gcc 2.95 + pilrc palm pilot compiler environment
@@ -29,6 +29,7 @@ I could not have created this without the help of
 [Kyroflux Project]: http://kryoflux.com/
 [the Future was 8-bit]: http://www.sd2iec.co.uk/
 [SD2IEC]: http://www.sd2iec.co.uk/id4.html 
+[Bill Atkinson]: http://www.billatkinson.com/
 [mini vMac]: http://sourceforge.net/projects/minivmac/
 [the Gryphel Project]: http://www.gryphel.com/index.html
 [eBay]: http://ebay.com
