@@ -1,0 +1,12 @@
+[submodule "ipad"]
+	path = ipad
+	url = git@github.com:jedahan/ipad.git
+[submodule "hypermac"]
+	path = hypermac
+	url = git@github.com:jedahan/hypermac.git
+[submodule "c64"]
+	path = c64
+	url = git@github.com:jedahan/c64.git
+[submodule "palmos"]
+	path = palmos
+	url = git@github.com:jedahan/palmos.git
