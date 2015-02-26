@@ -27,6 +27,7 @@ I could not have created this without the help of
 
 
 [Kimon Keramidas]: http://kimon-keramidas.wikidot.com/
+[Bard Graduate Center]: http://bgc.bard.edu/
 [Interface Experience]: http://www.bgc.bard.edu/gallery/gallery-at-bgc/the-interface-experience.html
 [Interface Experience Wiki]: http://interface-design.wikis.bgc.bard.edu/
 [Kryoflux Project]: http://kryoflux.com/
