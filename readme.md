@@ -9,6 +9,8 @@ It's an OK set of examples for someone trying to write code for these platforms 
 
 # Thanks and Resources
 
+This is a partial list, please submit github issues or pull requests to help me fill this out!
+
 I could not have created this without the help of
 
   * [Kimon Keramidas][] and the [Bard Graduate Center][], for giving me the opportunity to work on this amazingly fun archeological experiment.
