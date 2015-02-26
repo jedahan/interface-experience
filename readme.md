@@ -38,4 +38,5 @@ I could not have created this without the help of
 [eBay]: http://ebay.com
 [Eric Poncet]: http://mobile.eric-poncet.com/palm/tutorial/
 [PHEM]: http://perpendox.com/phem/
-
+[Docker]: http://docker.com/
+[Debian]: http://debian.org/
