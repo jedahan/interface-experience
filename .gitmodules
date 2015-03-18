@@ -10,3 +10,6 @@
 [submodule "palmos"]
 	path = palmos
 	url = git@github.com:jedahan/palmos.git
+[submodule "kinectFireworks"]
+	path = kinectFireworks
+	url = git@github.com:jedahan/kinectFireworks
